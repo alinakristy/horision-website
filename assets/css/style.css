@@ -1,3 +1,4 @@
+/* global property */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* main image property */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* main content proprieties */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* aside properties */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +139,7 @@ p {
     max-width: 150px;
 }
 
+/* section backgrounds properties*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +167,7 @@ p {
     color: #ffffff;
 }
 
+/* section images properties */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +180,7 @@ p {
     max-height: 200px;
 }
 
+/* section hedings properties */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -188,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/* footer properties */
 .footer {
     padding: 30px;
     clear: both;
